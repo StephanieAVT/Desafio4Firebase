@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DESAFIOFINAL</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvPassword">Password</string>
+    <string name="tvRemember">Remember</string>
+    <string name="tvCAccount">Create account</string>
+    <string name="btnLogin">LOG IN</string>
+    <string name="tvName">Name</string>
+    <string name="tvRPassword">Repeate password</string>
+    <string name="btnRegister">CREATE ACCOUNT</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">Search Games</string>
+    <string name="tvCreated">Created at</string>
+    <string name="tvDescription">Description</string>
+    <string name="btnSaveGame">SAVE GAME</string>
+</resources>
